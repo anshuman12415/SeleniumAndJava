@@ -1,6 +1,6 @@
 package javaProgram;
 
-public class MISC1 {
+public class StringVowels {
     public static void main(String[] args) {
         String s = "anshuman";
         String result = extractVowels(s);

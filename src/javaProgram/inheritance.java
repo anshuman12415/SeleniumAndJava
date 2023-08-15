@@ -34,7 +34,7 @@ import java.util.Scanner;
 	    }
 	}
 
-	public class Misc {
+	public class inheritance {
 	    public static void main(String[] args) {
 	        // Create an instance of Dog
 	        Dog dog = new Dog("Buddy", 5);
